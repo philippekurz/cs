@@ -49,4 +49,4 @@ switch (note)
 
 // Exercice
 // Déclarer deux variables pour les âges de Pierre et Paul
-// afficher lequel de deus est le plus âgé, avec des if, puis avec un switch
+// afficher lequel des deux est le plus âgé, avec des if, puis avec un switch
