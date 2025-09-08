@@ -1,16 +1,7 @@
-﻿Console.WriteLine("Fonctions");
-// Modèle abstrait d'une fonction
-// typeDeRetour NomDeLaFonction (Paremètres)
-// {
-//     Instructions...
-//     return valeurDeRetour
-// }
-
-
-int Additionne(int nbEntier1, int nbEntier2) // Déclaration de la fonction Additionne
+﻿
+int Carre(int nombre)
 {
-    return nbEntier1 + nbEntier2;
+    return (int)Math.Pow(nombre, 3);
 }
 
-int total = Additionne(2, 3);   //Appel de la fonction Additionne
-Console.WriteLine(total);
+Console.WriteLine("Le carré de 5 est : " + Carre(5));
