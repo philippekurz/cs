@@ -1,0 +1,13 @@
+namespace NomDuProjet (C'est vous qui décidez)
+{
+    // Classe principale avec le point d'entrée
+    class Program
+    {
+        // Point d'entrée de l'application
+        // static et void sont obligatoires et la fonction doit s'appeler Main et elle doit attendre un tableau de chaines de caractère en argument
+        static void Main(string[] args)
+        {
+            (Instructions)
+        }
+    }
+}

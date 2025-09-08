@@ -1,0 +1,25 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "HelloWorld (console)",
+      "type": "coreclr",
+      "request": "launch",
+      "preLaunchTask": "build",
+      "program": "${workspaceFolder}/HelloWorld/bin/Debug/net9.0/HelloWorld.dll",
+      "cwd": "${workspaceFolder}/HelloWorld",
+      "console": "integratedTerminal",
+      "stopAtEntry": false
+    },
+    {
+      "name": "Proj (console)",
+      "type": "coreclr",
+      "request": "launch",
+      "preLaunchTask": "build",
+      "program": "${workspaceFolder}/proj/bin/Debug/net9.0/proj.dll",
+      "cwd": "${workspaceFolder}/proj",
+      "console": "integratedTerminal",
+      "stopAtEntry": false
+    }
+  ]
+}

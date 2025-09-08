@@ -1,0 +1,15 @@
+C:\Users\Philippe\Desktop\cs\proj\bin\Debug\net9.0\proj.exe
+C:\Users\Philippe\Desktop\cs\proj\bin\Debug\net9.0\proj.deps.json
+C:\Users\Philippe\Desktop\cs\proj\bin\Debug\net9.0\proj.runtimeconfig.json
+C:\Users\Philippe\Desktop\cs\proj\bin\Debug\net9.0\proj.dll
+C:\Users\Philippe\Desktop\cs\proj\bin\Debug\net9.0\proj.pdb
+C:\Users\Philippe\Desktop\cs\proj\obj\Debug\net9.0\proj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Philippe\Desktop\cs\proj\obj\Debug\net9.0\proj.AssemblyInfoInputs.cache
+C:\Users\Philippe\Desktop\cs\proj\obj\Debug\net9.0\proj.AssemblyInfo.cs
+C:\Users\Philippe\Desktop\cs\proj\obj\Debug\net9.0\proj.csproj.CoreCompileInputs.cache
+C:\Users\Philippe\Desktop\cs\proj\obj\Debug\net9.0\proj.sourcelink.json
+C:\Users\Philippe\Desktop\cs\proj\obj\Debug\net9.0\proj.dll
+C:\Users\Philippe\Desktop\cs\proj\obj\Debug\net9.0\refint\proj.dll
+C:\Users\Philippe\Desktop\cs\proj\obj\Debug\net9.0\proj.pdb
+C:\Users\Philippe\Desktop\cs\proj\obj\Debug\net9.0\proj.genruntimeconfig.cache
+C:\Users\Philippe\Desktop\cs\proj\obj\Debug\net9.0\ref\proj.dll
