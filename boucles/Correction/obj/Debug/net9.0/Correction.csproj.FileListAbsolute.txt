@@ -1,0 +1,15 @@
+C:\Users\Philippe\Desktop\cs\boucles\Correction\bin\Debug\net9.0\Correction.exe
+C:\Users\Philippe\Desktop\cs\boucles\Correction\bin\Debug\net9.0\Correction.deps.json
+C:\Users\Philippe\Desktop\cs\boucles\Correction\bin\Debug\net9.0\Correction.runtimeconfig.json
+C:\Users\Philippe\Desktop\cs\boucles\Correction\bin\Debug\net9.0\Correction.dll
+C:\Users\Philippe\Desktop\cs\boucles\Correction\bin\Debug\net9.0\Correction.pdb
+C:\Users\Philippe\Desktop\cs\boucles\Correction\obj\Debug\net9.0\Correction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Philippe\Desktop\cs\boucles\Correction\obj\Debug\net9.0\Correction.AssemblyInfoInputs.cache
+C:\Users\Philippe\Desktop\cs\boucles\Correction\obj\Debug\net9.0\Correction.AssemblyInfo.cs
+C:\Users\Philippe\Desktop\cs\boucles\Correction\obj\Debug\net9.0\Correction.csproj.CoreCompileInputs.cache
+C:\Users\Philippe\Desktop\cs\boucles\Correction\obj\Debug\net9.0\Correction.sourcelink.json
+C:\Users\Philippe\Desktop\cs\boucles\Correction\obj\Debug\net9.0\Correction.dll
+C:\Users\Philippe\Desktop\cs\boucles\Correction\obj\Debug\net9.0\refint\Correction.dll
+C:\Users\Philippe\Desktop\cs\boucles\Correction\obj\Debug\net9.0\Correction.pdb
+C:\Users\Philippe\Desktop\cs\boucles\Correction\obj\Debug\net9.0\Correction.genruntimeconfig.cache
+C:\Users\Philippe\Desktop\cs\boucles\Correction\obj\Debug\net9.0\ref\Correction.dll
