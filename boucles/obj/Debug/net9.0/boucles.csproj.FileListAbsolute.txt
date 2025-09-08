@@ -1,0 +1,15 @@
+C:\Users\Philippe\Desktop\cs\boucles\bin\Debug\net9.0\boucles.exe
+C:\Users\Philippe\Desktop\cs\boucles\bin\Debug\net9.0\boucles.deps.json
+C:\Users\Philippe\Desktop\cs\boucles\bin\Debug\net9.0\boucles.runtimeconfig.json
+C:\Users\Philippe\Desktop\cs\boucles\bin\Debug\net9.0\boucles.dll
+C:\Users\Philippe\Desktop\cs\boucles\bin\Debug\net9.0\boucles.pdb
+C:\Users\Philippe\Desktop\cs\boucles\obj\Debug\net9.0\boucles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Philippe\Desktop\cs\boucles\obj\Debug\net9.0\boucles.AssemblyInfoInputs.cache
+C:\Users\Philippe\Desktop\cs\boucles\obj\Debug\net9.0\boucles.AssemblyInfo.cs
+C:\Users\Philippe\Desktop\cs\boucles\obj\Debug\net9.0\boucles.csproj.CoreCompileInputs.cache
+C:\Users\Philippe\Desktop\cs\boucles\obj\Debug\net9.0\boucles.sourcelink.json
+C:\Users\Philippe\Desktop\cs\boucles\obj\Debug\net9.0\boucles.dll
+C:\Users\Philippe\Desktop\cs\boucles\obj\Debug\net9.0\refint\boucles.dll
+C:\Users\Philippe\Desktop\cs\boucles\obj\Debug\net9.0\boucles.pdb
+C:\Users\Philippe\Desktop\cs\boucles\obj\Debug\net9.0\boucles.genruntimeconfig.cache
+C:\Users\Philippe\Desktop\cs\boucles\obj\Debug\net9.0\ref\boucles.dll

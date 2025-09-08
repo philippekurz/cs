@@ -173,7 +173,7 @@ Console.WriteLine("3. Quitter");
 Console.Write("Choisissez une option : ");
 int menu = Convert.ToInt32(Console.ReadLine());
 
-switch (menu)
+switch (menoru)
 {
     case 1:
         Console.WriteLine("Bonjour");
