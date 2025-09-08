@@ -1,0 +1,15 @@
+C:\Users\Philippe\Desktop\cs\corrigé 01 09 2025\bin\Debug\net9.0\corrigé 01 09 2025.exe
+C:\Users\Philippe\Desktop\cs\corrigé 01 09 2025\bin\Debug\net9.0\corrigé 01 09 2025.deps.json
+C:\Users\Philippe\Desktop\cs\corrigé 01 09 2025\bin\Debug\net9.0\corrigé 01 09 2025.runtimeconfig.json
+C:\Users\Philippe\Desktop\cs\corrigé 01 09 2025\bin\Debug\net9.0\corrigé 01 09 2025.dll
+C:\Users\Philippe\Desktop\cs\corrigé 01 09 2025\bin\Debug\net9.0\corrigé 01 09 2025.pdb
+C:\Users\Philippe\Desktop\cs\corrigé 01 09 2025\obj\Debug\net9.0\corrigé 01 09 2025.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Philippe\Desktop\cs\corrigé 01 09 2025\obj\Debug\net9.0\corrigé 01 09 2025.AssemblyInfoInputs.cache
+C:\Users\Philippe\Desktop\cs\corrigé 01 09 2025\obj\Debug\net9.0\corrigé 01 09 2025.AssemblyInfo.cs
+C:\Users\Philippe\Desktop\cs\corrigé 01 09 2025\obj\Debug\net9.0\corrigé 01 09 2025.csproj.CoreCompileInputs.cache
+C:\Users\Philippe\Desktop\cs\corrigé 01 09 2025\obj\Debug\net9.0\corrigé 01 09 2025.sourcelink.json
+C:\Users\Philippe\Desktop\cs\corrigé 01 09 2025\obj\Debug\net9.0\corrigé 01 09 2025.dll
+C:\Users\Philippe\Desktop\cs\corrigé 01 09 2025\obj\Debug\net9.0\refint\corrigé 01 09 2025.dll
+C:\Users\Philippe\Desktop\cs\corrigé 01 09 2025\obj\Debug\net9.0\corrigé 01 09 2025.pdb
+C:\Users\Philippe\Desktop\cs\corrigé 01 09 2025\obj\Debug\net9.0\corrigé 01 09 2025.genruntimeconfig.cache
+C:\Users\Philippe\Desktop\cs\corrigé 01 09 2025\obj\Debug\net9.0\ref\corrigé 01 09 2025.dll
