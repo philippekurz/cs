@@ -10,5 +10,13 @@ class Program
 
         // Affichage des infos
         compte.Afficher();
+
+        // Modification du solde
+        compte.Crediter(500m);
+        compte.Debiter(200m);
+
+        // Affichage des infos
+        compte.Afficher();
+
     }
 }

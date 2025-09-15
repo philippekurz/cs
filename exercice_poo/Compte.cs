@@ -26,7 +26,34 @@ class Compte
     {
         _solde = solde;
         Titulaire = new Titulaire(titulaireNom, titulairePrenom, titulaireAdresse, titulaireCodePostal, titulaireVille, titulaireTel, titulaireEmail);
-    }   
+    }
+
+    public void Crediter(decimal montant)
+    {
+        if (montant < 0)
+        {
+            throw new ArgumentException("Le montant à créditer ne peut pas être négatif.");
+        }
+        _solde += montant;
+        // Afficher le nouveau solde
+        Console.WriteLine($"Nouveau solde après crédit: {_solde} €");
+    }
+
+    public void Debiter(decimal montant)
+    {
+        if (montant < 0)
+        {
+            throw new ArgumentException("Le montant à débiter ne peut pas être négatif.");
+        }
+        if (montant > _solde)
+        {
+            throw new InvalidOperationException("Fonds insuffisants pour débiter ce montant.");
+        }
+
+        _solde -= montant;
+        // Afficher le nouveau solde
+        Console.WriteLine($"Nouveau solde après débit: {_solde} €");
+    }
 
     public void Afficher()
     {
@@ -34,4 +61,6 @@ class Compte
         Console.WriteLine($"Solde: {_solde} €");
         Titulaire.Afficher();
     }
+    
+
 }
