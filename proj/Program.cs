@@ -2,6 +2,21 @@
 
 namespace ExempleObjet
 {
+    // Définition d'une classe Ville
+    // Classe : Type de variable complexe
+    public class Ville
+    {
+        // Données de la classe : Propriétés / Attributs
+        public string Nom { get; set; }
+        public string CodePostal { get; set; }
+
+        // Comportements de la classe : Méthodes (fonctions)
+        public void Afficher()
+        {
+            Console.WriteLine($"{CodePostal} {Nom}");
+        }
+    }
+
     // Définition d'une classe Personne
     public class Personne
     {
@@ -28,6 +43,12 @@ namespace ExempleObjet
     {
         static void Main(string[] args)
         {
+
+            // On crée (instancie) une variable de type Object (une instance), à partir de la classe Ville (Modèle)
+            Ville maPremiereVille = new Ville();
+            Ville maDeuxiemeVille = new Ville();
+            string AutreVille;
+
             // Création d’un objet Personne
             Personne alice = new Personne("Alice", 25);
 
