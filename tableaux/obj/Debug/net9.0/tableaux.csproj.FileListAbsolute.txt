@@ -1,0 +1,15 @@
+C:\Users\Philippe\Desktop\cs\tableaux\bin\Debug\net9.0\tableaux.exe
+C:\Users\Philippe\Desktop\cs\tableaux\bin\Debug\net9.0\tableaux.deps.json
+C:\Users\Philippe\Desktop\cs\tableaux\bin\Debug\net9.0\tableaux.runtimeconfig.json
+C:\Users\Philippe\Desktop\cs\tableaux\bin\Debug\net9.0\tableaux.dll
+C:\Users\Philippe\Desktop\cs\tableaux\bin\Debug\net9.0\tableaux.pdb
+C:\Users\Philippe\Desktop\cs\tableaux\obj\Debug\net9.0\tableaux.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Philippe\Desktop\cs\tableaux\obj\Debug\net9.0\tableaux.AssemblyInfoInputs.cache
+C:\Users\Philippe\Desktop\cs\tableaux\obj\Debug\net9.0\tableaux.AssemblyInfo.cs
+C:\Users\Philippe\Desktop\cs\tableaux\obj\Debug\net9.0\tableaux.csproj.CoreCompileInputs.cache
+C:\Users\Philippe\Desktop\cs\tableaux\obj\Debug\net9.0\tableaux.sourcelink.json
+C:\Users\Philippe\Desktop\cs\tableaux\obj\Debug\net9.0\tableaux.dll
+C:\Users\Philippe\Desktop\cs\tableaux\obj\Debug\net9.0\refint\tableaux.dll
+C:\Users\Philippe\Desktop\cs\tableaux\obj\Debug\net9.0\tableaux.pdb
+C:\Users\Philippe\Desktop\cs\tableaux\obj\Debug\net9.0\tableaux.genruntimeconfig.cache
+C:\Users\Philippe\Desktop\cs\tableaux\obj\Debug\net9.0\ref\tableaux.dll
