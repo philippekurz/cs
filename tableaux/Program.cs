@@ -61,5 +61,20 @@
 
         // Chercher l'index d'un élément
         Console.WriteLine(prenoms.IndexOf("Hugo"));
+
+
+        Dictionary<int, string> clients = new Dictionary<int, string>();
+        clients[30] = "Alice";
+        clients[25] = "Bob";
+        clients[35] = "Charlie";
+        clients[40] = "David";
+        clients[28] = "Eve";
+        clients.Add(32, "Frank");
+        clients.Add(29, "Grace");
+        foreach (KeyValuePair<int, string> client in clients)
+        {
+            Console.WriteLine($"Clé : {client.Key}, Valeur : {client.Value}");
+        }
+
     }
 }
