@@ -1,0 +1,15 @@
+C:\Users\Philippe\Desktop\cs\heritage\bin\Debug\net9.0\heritage.exe
+C:\Users\Philippe\Desktop\cs\heritage\bin\Debug\net9.0\heritage.deps.json
+C:\Users\Philippe\Desktop\cs\heritage\bin\Debug\net9.0\heritage.runtimeconfig.json
+C:\Users\Philippe\Desktop\cs\heritage\bin\Debug\net9.0\heritage.dll
+C:\Users\Philippe\Desktop\cs\heritage\bin\Debug\net9.0\heritage.pdb
+C:\Users\Philippe\Desktop\cs\heritage\obj\Debug\net9.0\heritage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Philippe\Desktop\cs\heritage\obj\Debug\net9.0\heritage.AssemblyInfoInputs.cache
+C:\Users\Philippe\Desktop\cs\heritage\obj\Debug\net9.0\heritage.AssemblyInfo.cs
+C:\Users\Philippe\Desktop\cs\heritage\obj\Debug\net9.0\heritage.csproj.CoreCompileInputs.cache
+C:\Users\Philippe\Desktop\cs\heritage\obj\Debug\net9.0\heritage.sourcelink.json
+C:\Users\Philippe\Desktop\cs\heritage\obj\Debug\net9.0\heritage.dll
+C:\Users\Philippe\Desktop\cs\heritage\obj\Debug\net9.0\refint\heritage.dll
+C:\Users\Philippe\Desktop\cs\heritage\obj\Debug\net9.0\heritage.pdb
+C:\Users\Philippe\Desktop\cs\heritage\obj\Debug\net9.0\heritage.genruntimeconfig.cache
+C:\Users\Philippe\Desktop\cs\heritage\obj\Debug\net9.0\ref\heritage.dll
